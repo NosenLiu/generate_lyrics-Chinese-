@@ -86,6 +86,7 @@ ENV/
 .spyderproject
 
 #compress packages
+*.gz
 
 # Rope project settings
 .ropeproject
