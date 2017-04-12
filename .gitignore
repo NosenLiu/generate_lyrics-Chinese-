@@ -85,5 +85,7 @@ ENV/
 # Spyder project settings
 .spyderproject
 
+#compress packages
+
 # Rope project settings
 .ropeproject
